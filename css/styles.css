@@ -1,0 +1,26 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-style: italic;
+}
+h2 {
+  text-align: center;
+}
+p {
+  font-weight: bold;
+  text-align: center;
+  font-size: 1em;
+}
+.intro {
+  font-size: 0.8em;
+}
+.welcome {
+  ;
+}
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
+li{
+  text-align: center;
+}
